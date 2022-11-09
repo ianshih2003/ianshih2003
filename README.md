@@ -2,7 +2,7 @@
 
 Testing github stats! (WIP)
 
-![wilbackslash's github stats](https://github-readme-stats.vercel.app/api?username=willbackslash&show_icons=true)
+![ianshih2003's github stats](https://github-readme-stats.vercel.app/api?username=ianshih2003&show_icons=true&count_private=true)
 
 
 <!--
