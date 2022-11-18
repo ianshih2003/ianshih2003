@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Testing github stats! (WIP)
-
 ![ianshih2003's github stats](https://github-readme-stats.vercel.app/api?username=ianshih2003&show_icons=true&count_private=true)
 
 
